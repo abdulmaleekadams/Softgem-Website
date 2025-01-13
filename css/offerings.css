@@ -1,0 +1,93 @@
+.list-disc,
+.offerings-list-heading {
+  display: list-item;
+  list-style-type: disc;
+}
+
+.list-wrapper {
+  margin-left: 40px;
+}
+
+.list-wrapper > dt {
+  margin-top: 1rem;
+}
+
+.list-number {
+  list-style-type: decimal;
+}
+
+.section-points {
+  margin-top: 2rem;
+}
+
+.offerings-list-title {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+.offerings-list-heading {
+  font-weight: 600;
+}
+
+.offerings-list-description {
+  margin-left: 0;
+}
+
+.success {
+  margin-top: 40px;
+}
+
+.success p {
+  margin-block: 1rem;
+}
+
+.success a {
+  text-decoration: none;
+  font-weight: 500;
+  color: #f6751f;
+  margin-right: 2px;
+  text-transform: uppercase;
+}
+
+.contact a {
+  text-decoration: none;
+  font-weight: 500;
+  color: #f6751f;
+  margin-right: 2px;
+}
+
+.mt-2 {
+  margin-top: 1rem;
+}
+
+.mt-1 {
+  margin-top: 0.5rem;
+}
+
+.section_service-list dt {
+  margin-right: 5px;
+}
+
+.impact-container {
+  margin-block: 1rem;
+}
+.impact {
+  flex-direction: column;
+  align-items: center;
+}
+
+.impact p {
+  text-align: center;
+  color: white;
+  transition: 500ms ease-in-out;
+  padding-inline: 1rem;
+}
+
+.impact:hover p {
+  color: #f6751f;
+}
+
+.pb-0 {
+  padding-bottom: 0 !important;
+}

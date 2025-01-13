@@ -1,0 +1,33 @@
+<svg width="234" height="145" viewBox="0 0 234 145" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="0.5" y="0.5" width="233" height="79" rx="14.5" fill="white" fill-opacity="0.015" stroke="url(#paint0_linear_8759_1022)"/>
+<path d="M15 24.9867L16.7 24.9934C17.3067 24.9934 17.8733 24.6933 18.2067 24.1933L22.4667 17.8067C22.8 17.3067 23.3667 17 23.9733 17.0067L27.0067 17.02" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M25.6667 26.32L27 24.9867" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M18.9267 18.7467L18.2067 17.7467C17.8667 17.2733 17.32 16.9933 16.74 17L15 17.0067" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M21.6467 23.2533L22.46 24.3C22.8 24.74 23.3333 25 23.8933 25L27.0067 24.9866" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M27 17.0134L25.6667 15.6801" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="37" y="18" width="35" height="6" rx="3" fill="white" fill-opacity="0.12"/>
+<rect x="216" y="18" width="6" height="6" rx="3" fill="white" fill-opacity="0.12"/>
+<rect x="13" y="39" width="123" height="6" rx="3" fill="white" fill-opacity="0.08"/>
+<rect x="13" y="50" width="209" height="6" rx="3" fill="white" fill-opacity="0.02"/>
+<rect x="13" y="61" width="209" height="6" rx="3" fill="white" fill-opacity="0.02"/>
+<rect x="0.5" y="88.5" width="233" height="79" rx="14.5" fill="white" fill-opacity="0.015" stroke="url(#paint1_linear_8759_1022)"/>
+<path d="M15 112.987L16.7 112.993C17.3067 112.993 17.8733 112.693 18.2067 112.193L22.4667 105.807C22.8 105.307 23.3667 105 23.9733 105.007L27.0067 105.02" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M25.6667 114.32L27 112.987" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M18.9267 106.747L18.2067 105.747C17.8667 105.273 17.32 104.993 16.74 105L15 105.007" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M21.6467 111.253L22.46 112.3C22.8 112.74 23.3333 113 23.8933 113L27.0067 112.987" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M27 105.013L25.6667 103.68" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="37" y="106" width="35" height="6" rx="3" fill="white" fill-opacity="0.12"/>
+<rect x="216" y="106" width="6" height="6" rx="3" fill="white" fill-opacity="0.12"/>
+<rect x="13" y="127" width="123" height="6" rx="3" fill="white" fill-opacity="0.08"/>
+<rect x="13" y="138" width="209" height="6" rx="3" fill="white" fill-opacity="0.02"/>
+<defs>
+<linearGradient id="paint0_linear_8759_1022" x1="117" y1="0" x2="117" y2="80" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0.04"/>
+<stop offset="1" stop-color="white" stop-opacity="0.01"/>
+</linearGradient>
+<linearGradient id="paint1_linear_8759_1022" x1="117" y1="88" x2="117" y2="168" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0.04"/>
+<stop offset="1" stop-color="white" stop-opacity="0.01"/>
+</linearGradient>
+</defs>
+</svg>
